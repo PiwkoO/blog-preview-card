@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution on frontendmentor.io]()
-- [Live preview]()
+- [Solution on frontendmentor.io](https://www.frontendmentor.io/solutions/blog-preview-card-AA1OJ0neml)
+- [Live preview](https://piwkoo.github.io/blog-preview-card/)
 
 ## My process
 
